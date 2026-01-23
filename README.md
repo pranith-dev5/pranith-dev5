@@ -1,2 +1,2 @@
-# test-repo
-My first Github repository 
+Hello 🙋‍♂️
+I am a student learning Github
